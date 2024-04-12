@@ -1,0 +1,1172 @@
+[
+    {
+        "utterance": "Why is my flight late today?",
+        "intent": "Flight Status Inquiry",
+        "slots": {
+            "Date": "Today"
+        }
+    },
+    {
+        "utterance": "Where to get the cheapest ticket from Mumbai to London?",
+        "intent": "Fare Enquiry",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "Is there a restroom in the airport here?",
+        "intent": "Airport Information",
+        "slots": {
+            "Location": "Airport here"
+        }
+    },
+    {
+        "utterance": "Is there a flight from Mumbai to Delhi?",
+        "intent": "Flight Availability",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "Delhi"
+        }
+    },
+    {
+        "utterance": "My flight is canceled.Will I get refund?",
+        "intent": "Flight Cancellation",
+        "slots": {}
+    },
+    {
+        "utterance": "What time is the flight for London?",
+        "intent": "Flight Schedule Inquiry",
+        "slots": {
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "What is the status of my flight?I am on a London flight from Delhi.",
+        "intent": "Flight Status Inquiry",
+        "slots": {
+            "Source": "Delhi",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "How to get a flight from Delhi to London on 20th of April?",
+        "intent": "Flight Booking",
+        "slots": {
+            "Date": "20 April",
+            "Source": "Delhi",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "What is the shop in Terminal 2 of Mumbai Airport?",
+        "intent": "Airport Information",
+        "slots": {
+            "Location": "Mumbai Airport",
+            "Terminal": "2"
+        }
+    },
+    {
+        "utterance": "Tell me the status of my flight.I am on a London flight from New York.",
+        "intent": "Flight Status Inquiry",
+        "slots": {
+            "Source": "New York",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "How will the flight from Mumbai to New Delhi go?",
+        "intent": "Flight Booking",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "New Delhi"
+        }
+    },
+    {
+        "utterance": "Is parking free at Delhi's airport?",
+        "intent": "Airport Information",
+        "slots": {
+            "Location": "Airport of Delhi"
+        }
+    },
+    {
+        "utterance": "Should I book a flight from Mumbai to London?",
+        "intent": "Flight Booking",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "What is the status of my flight?I am on a Chennai flight from Bangalore.",
+        "intent": "Flight Status Inquiry",
+        "slots": {
+            "Source": "Bangalore",
+            "Destination": "Chennai"
+        }
+    },
+    {
+        "utterance": "Is there a restroom in the airport here?",
+        "intent": "Airport Information",
+        "slots": {
+            "Location": "Airport here"
+        }
+    },
+    {
+        "utterance": "How will the flight from Mumbai to New Delhi go?",
+        "intent": "Flight Booking",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "New Delhi"
+        }
+    },
+    {
+        "utterance": "Is there a restroom in the airport here?",
+        "intent": "Airport Information",
+        "slots": {
+            "Location": "Airport here"
+        }
+    },
+    {
+        "utterance": "What is the status of my flight?I am on a flight from Ahmedabad to New Delhi.",
+        "intent": "Flight Status Inquiry",
+        "slots": {
+            "Source": "Ahmedabad",
+            "Destination": "New Delhi"
+        }
+    },
+    {
+        "utterance": "When is a London flight from Mumbai?",
+        "intent": "Flight Schedule Inquiry",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "My flight is canceled.Will I get refund?",
+        "intent": "Flight Cancellation",
+        "slots": {}
+    },
+    {
+        "utterance": "Tell me the status of my flight.I am on a London flight from New York.",
+        "intent": "Flight Status Inquiry",
+        "slots": {
+            "Source": "New York",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "How to get a flight from Delhi to London on 20th of April?",
+        "intent": "Flight Booking",
+        "slots": {
+            "Date": "20 April",
+            "Source": "Delhi",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "What is the shop in Terminal 2 of Mumbai Airport?",
+        "intent": "Airport Information",
+        "slots": {
+            "Location": "Mumbai Airport",
+            "Terminal": "2"
+        }
+    },
+    {
+        "utterance": "What is the status of my flight?I am on a Chennai flight from Bangalore.",
+        "intent": "Flight Status Inquiry",
+        "slots": {
+            "Source": "Bangalore",
+            "Destination": "Chennai"
+        }
+    },
+    {
+        "utterance": "Should I book a flight from Mumbai to London?",
+        "intent": "Flight Booking",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "What is the status of my flight?I am on a London flight from New York.",
+        "intent": "Flight Status Inquiry",
+        "slots": {
+            "Source": "New York",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "Should I book a flight from Mumbai to London?",
+        "intent": "Flight Booking",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "What is the status of my flight?I am on a London flight from New York.",
+        "intent": "Flight Status Inquiry",
+        "slots": {
+            "Source": "New York",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "How to get a flight from Delhi to London on 20th of April?",
+        "intent": "Flight Booking",
+        "slots": {
+            "Date": "20 April",
+            "Source": "Delhi",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "What is the shop in Terminal 2 of Mumbai Airport?",
+        "intent": "Airport Information",
+        "slots": {
+            "Location": "Mumbai Airport",
+            "Terminal": "2"
+        }
+    },
+    {
+        "utterance": "What is the status of my flight?I am on a Chennai flight from Bangalore.",
+        "intent": "Flight Status Inquiry",
+        "slots": {
+            "Source": "Bangalore",
+            "Destination": "Chennai"
+        }
+    },
+    {
+        "utterance": "Should I book a flight from Mumbai to London?",
+        "intent": "Flight Booking",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "What is the status of my flight?I am on a London flight from New York.",
+        "intent": "Flight Status Inquiry",
+        "slots": {
+            "Source": "New York",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "Should I book a flight from Mumbai to London?",
+        "intent": "Flight Booking",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "What is the status of my flight?I am on a London flight from New York.",
+        "intent": "Flight Status Inquiry",
+        "slots": {
+            "Source": "New York",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "How to get a flight from Delhi to London on 20th of April?",
+        "intent": "Flight Booking",
+        "slots": {
+            "Date": "20 April",
+            "Source": "Delhi",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "What is the shop in Terminal 2 of Mumbai Airport?",
+        "intent": "Airport Information",
+        "slots": {
+            "Location": "Mumbai Airport",
+            "Terminal": "2"
+        }
+    },
+    {
+        "utterance": "What is the status of my flight?I am on a Chennai flight from Bangalore.",
+        "intent": "Flight Status Inquiry",
+        "slots": {
+            "Source": "Bangalore",
+            "Destination": "Chennai"
+        }
+    },
+    {
+        "utterance": "Should I book a flight from Mumbai to London?",
+        "intent": "Flight Booking",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "By what time the airport here remains open?",
+        "intent": "Airport Information",
+        "slots": {
+            "Location": "Airport here"
+        }
+    },
+    {
+        "utterance": "When is the afternoon flight from Mumbai to New York?",
+        "intent": "Flight Schedule Inquiry",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "New York",
+            "Time": "Afternoon"
+        }
+    },
+    {
+        "utterance": "What is a flight fare from Mumbai to London?",
+        "intent": "Fare Enquiry",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "My flight is canceled.What should I do for this?",
+        "intent": "Flight Cancellation",
+        "slots": {}
+    },
+    {
+        "utterance": "Is express train service at the airport here?",
+        "intent": "Airport Information",
+        "slots": {
+            "Location": "Airport here"
+        }
+    },
+    {
+        "utterance": "A flight is to be booked in the budget from Mumbai to New Delhi.",
+        "intent": "Flight Booking",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "New Delhi",
+            "Budget": "Budget"
+        }
+    },
+    {
+        "utterance": "Are there some special security rules applicable in the airport here?",
+        "intent": "Airport Information",
+        "slots": {
+            "Location": "Airport here"
+        }
+    },
+    {
+        "utterance": "Is there a scady flight from Mumbai to Delhi?",
+        "intent": "Flight Availability",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "Delhi"
+        }
+    },
+    {
+        "utterance": "Can you tell the status of my flight?I am on a London flight from Delhi.",
+        "intent": "Flight Status Inquiry",
+        "slots": {
+            "Source": "Delhi",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "How many terminals are there in Mumbai Airport?",
+        "intent": "Airport Information",
+        "slots": {
+            "Location": "Mumbai Airport"
+        }
+    },
+    {
+        "utterance": "Is there a flight from Mumbai to London today?",
+        "intent": "Flight Availability",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "I have one o'clock flight tickets, can I check-in now?",
+        "intent": "Check-in Inquiry",
+        "slots": {
+            "Time": "One o'clock"
+        }
+    },
+    {
+        "utterance": "Where is the pickup area of Mumbai Airport?",
+        "intent": "Airport Information",
+        "slots": {
+            "Location": "Mumbai Airport",
+            "Area": "pick up"
+        }
+    },
+    {
+        "utterance": "Is my flight on its time?I am on a London flight from New York.",
+        "intent": "Flight Status Inquiry",
+        "slots": {
+            "Source": "New York",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "I have London flight booking for April, will I get ticket details?",
+        "intent": "Ticket Booking Inquiry",
+        "slots": {
+            "Date": "april",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "When is a London flight from Mumbai?And is he cheap?",
+        "intent": "Flight Schedule and Fare Inquiry",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "I have a flight book, but I have forgotten to check the tin details.",
+        "intent": "Ticket Details Inquiry",
+        "slots": {}
+    },
+    {
+        "utterance": "What is the weight range of my lugase?",
+        "intent": "Baggage Allowance Inquiry",
+        "slots": {}
+    },
+    {
+        "utterance": "Is there facility of free WiFi at Mumbai Airport?",
+        "intent": "Airport Information",
+        "slots": {
+            "Location": "Mumbai Airport",
+            "Facility": "Free wifi"
+        }
+    },
+    {
+        "utterance": "My flight is canceled.How many days will I get refund?",
+        "intent": "Refund Inquiry",
+        "slots": {}
+    },
+    {
+        "utterance": "Is there a duty-free shop at Mumbai Airport?",
+        "intent": "Airport Information",
+        "slots": {
+            "Location": "Mumbai Airport",
+            "Facility": "Duty-free shop"
+        }
+    },
+    {
+        "utterance": "When is the afternoon flight from Mumbai to New York?",
+        "intent": "Flight Schedule Inquiry",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "New York",
+            "Time": "Afternoon"
+        }
+    },
+    {
+        "utterance": "Is drinking water bottles available at Mumbai Airport?",
+        "intent": "Airport Information",
+        "slots": {
+            "Location": "Mumbai Airport",
+            "Facility": "Drinking water"
+        }
+    },
+    {
+        "utterance": "What is the status of my flight?I am on a Mumbai flight from New York.",
+        "intent": "Flight Status Inquiry",
+        "slots": {
+            "Source": "New York",
+            "Destination": "Mumbai"
+        }
+    },
+    {
+        "utterance": "I have a ticket, but I want to change my seat.",
+        "intent": "Seat Change Request",
+        "slots": {}
+    },
+    {
+        "utterance": "Is my flight delayed?I am on a Mumbai flight from London.",
+        "intent": "Flight Delay Inquiry",
+        "slots": {
+            "Source": "London",
+            "Destination": "Mumbai"
+        }
+    },
+    {
+        "utterance": "Is there a restaurant at the airport here?",
+        "intent": "Airport Information",
+        "slots": {
+            "Location": "Airport here",
+            "Facility": "restaurant"
+        }
+    },
+    {
+        "utterance": "My flight is deleted.Will I get any compensation for this?",
+        "intent": "Flight Delay Compensation Inquiry",
+        "slots": {}
+    },
+    {
+        "utterance": "Is my flight canceled?I am in a flight from Mumbai from New Delhi.",
+        "intent": "Flight Cancellation Inquiry",
+        "slots": {
+            "Source": "New Delhi",
+            "Destination": "Mumbai"
+        }
+    },
+    {
+        "utterance": "How many terminals are there in Mumbai Airport?",
+        "intent": "Airport Information",
+        "slots": {
+            "Location": "Mumbai Airport"
+        }
+    },
+    {
+        "utterance": "Is there a direct flight from Mumbai to New York?",
+        "intent": "Flight Availability",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "New York",
+            "Type": "Straight flight"
+        }
+    },
+    {
+        "utterance": "When is a flight from Mumbai to Delhi?",
+        "intent": "Flight Schedule Inquiry",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "Delhi"
+        }
+    },
+    {
+        "utterance": "What is the status of my flight?I am on a flight from Mumbai from Delhi.",
+        "intent": "Flight Status Inquiry",
+        "slots": {
+            "Source": "Delhi",
+            "Destination": "Mumbai"
+        }
+    },
+    {
+        "utterance": "How to boot from Mumbai to New York?",
+        "intent": "Flight Booking Inquiry",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "New York"
+        }
+    },
+    {
+        "utterance": "Is there a lust and found counter at Mumbai Airport?",
+        "intent": "Airport Information",
+        "slots": {
+            "Location": "Mumbai Airport",
+            "Facility": "Lost and Found Counter"
+        }
+    },
+    {
+        "utterance": "Is there a non-stop flight from Mumbai to London?",
+        "intent": "Flight Availability",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "London",
+            "Type": "Non-stop flight"
+        }
+    },
+    {
+        "utterance": "Is there a lounge at Mumbai Airport?",
+        "intent": "Airport Information",
+        "slots": {
+            "Location": "Mumbai Airport",
+            "Facility": "Lounge"
+        }
+    },
+    {
+        "utterance": "I need information about flight from Delhi to Mumbai.",
+        "intent": "Flight Information Inquiry",
+        "slots": {
+            "Source": "Delhi",
+            "Destination": "Mumbai"
+        }
+    },
+    {
+        "utterance": "Is the arrival of my train on time?",
+        "intent": "Train Schedule Inquiry",
+        "slots": {}
+    },
+    {
+        "utterance": "What to do about your baggage at Mumbai Airport?",
+        "intent": "Airport Information",
+        "slots": {
+            "Location": "Mumbai Airport",
+            "Facility": "Baggage handling"
+        }
+    },
+    {
+        "utterance": "My train booking has been canceled.When will I get refund?",
+        "intent": "Train Refund Inquiry",
+        "slots": {}
+    },
+    {
+        "utterance": "My flight ticket is cut, but I have to change the flight time.",
+        "intent": "Flight Reschedule Request",
+        "slots": {}
+    },
+    {
+        "utterance": "When is the next week flight from Mumbai to New York?",
+        "intent": "Flight Schedule Inquiry",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "New York"
+        }
+    },
+    {
+        "utterance": "Is there a book store at Mumbai Airport?",
+        "intent": "Airport Information",
+        "slots": {
+            "Location": "Mumbai Airport",
+            "Facility": "Book store"
+        }
+    },
+    {
+        "utterance": "How to get my ticket information?",
+        "intent": "Ticket Information Inquiry",
+        "slots": {}
+    },
+    {
+        "utterance": "Is there an ATM here?",
+        "intent": "Airport Information",
+        "slots": {
+            "Location": "Here"
+        }
+    },
+    {
+        "utterance": "Send my ticket information.I am on a flight from Bangalore from Chennai.",
+        "intent": "Ticket Information Inquiry",
+        "slots": {
+            "Source": "Chennai",
+            "Destination": "Bengaluru"
+        }
+    },
+    {
+        "utterance": "Is there a duty-free shop at the airport here?",
+        "intent": "Airport Information",
+        "slots": {
+            "Location": "Airport here",
+            "Facility": "Duty-free shop"
+        }
+    },
+    {
+        "utterance": "Is there a cheap flight from Mumbai to New York?",
+        "intent": "Cheap Flight Inquiry",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "New York"
+        }
+    },
+    {
+        "utterance": "Is there a VIP lounge at the airport here?",
+        "intent": "Airport Information",
+        "slots": {
+            "Location": "Airport here",
+            "Facility": "VIP Lounge"
+        }
+    },
+    {
+        "utterance": "Q. Which is the fastest flight from Mumbai to London?",
+        "intent": "Fastest Flight Inquiry",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "Is there a scadated flight from Mumbai to New York?",
+        "intent": "Flight Availability",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "New York",
+            "Type": "Scadated flight"
+        }
+    },
+    {
+        "utterance": "I need information about my ticket.I am in a train from Ahmedabad to Delhi.",
+        "intent": "Ticket Information Inquiry",
+        "slots": {
+            "Source": "Ahmedabad",
+            "Destination": "Delhi"
+        }
+    },
+    {
+        "utterance": "What is my flight route?I am on a flight from Bangalore from New Delhi.",
+        "intent": "Flight Route Inquiry",
+        "slots": {
+            "Source": "New Delhi",
+            "Destination": "Bengaluru"
+        }
+    },
+    {
+        "utterance": "Is there a bank in Mumbai Airport?",
+        "intent": "Airport Information",
+        "slots": {
+            "Location": "Mumbai Airport",
+            "Facility": "Bank"
+        }
+    },
+    {
+        "utterance": "Is there a direct flight from Mumbai to London?",
+        "intent": "Flight Availability",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "London",
+            "Type": "Straight flight"
+        }
+    },
+    {
+        "utterance": "How many days ago my train booking has been done?",
+        "intent": "Train Booking Date Inquiry",
+        "slots": {}
+    },
+    {
+        "utterance": "Q. Which is the cheapest flight from Mumbai to New York?",
+        "intent": "Cheap Flight Inquiry",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "New York"
+        }
+    },
+    {
+        "utterance": "Where can I take a print out of my ticket?",
+        "intent": "Ticket Printing Inquiry",
+        "slots": {}
+    },
+    {
+        "utterance": "Book my ticket comfort seat.",
+        "intent": "Seat Booking Request",
+        "slots": {}
+    },
+    {
+        "utterance": "What is my ticket status?I am on a train from Bangalore to Delhi.",
+        "intent": "Ticket Status Inquiry",
+        "slots": {
+            "Source": "Bengaluru",
+            "Destination": "Delhi"
+        }
+    },
+    {
+        "utterance": "Give information about my ticket.I am on a train from Chennai to Mumbai.",
+        "intent": "Ticket Information Inquiry",
+        "slots": {
+            "Source": "Chennai",
+            "Destination": "Mumbai"
+        }
+    },
+    {
+        "utterance": "Is there a cheap flight from Mumbai to London?",
+        "intent": "Cheap Flight Inquiry",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "What is my ticket status?I am on a train from Bangalore to Mumbai.",
+        "intent": "Ticket Status Inquiry",
+        "slots": {
+            "Source": "Bangalore",
+            "Destination": "Mumbai"
+        }
+    },
+    {
+        "utterance": "Is there a non-stop flight from Mumbai to New York?",
+        "intent": "Flight Availability",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "New York",
+            "Type": "Non-stop flight"
+        }
+    },
+    {
+        "utterance": "What is my ticket status?I am on a train from Bangalore to Delhi.",
+        "intent": "Ticket Status Inquiry",
+        "slots": {
+            "Source": "Bengaluru",
+            "Destination": "Delhi"
+        }
+    },
+    {
+        "utterance": "What is the status of my train?I am in a train from New Delhi to Lucknow.",
+        "intent": "Train Status Inquiry",
+        "slots": {
+            "Source": "New Delhi",
+            "Destination": "Lucknow"
+        }
+    },
+    {
+        "utterance": "What is the status of my ticket?I am in a train from Delhi to Mumbai.",
+        "intent": "Ticket Status Inquiry",
+        "slots": {
+            "Source": "Delhi",
+            "Destination": "Mumbai"
+        }
+    },
+    {
+        "utterance": "Is the arrival of my train on time?",
+        "intent": "Train Schedule Inquiry",
+        "slots": {}
+    },
+    {
+        "utterance": "Is there a cheap flight from Mumbai to London?",
+        "intent": "Cheap Flight Inquiry",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "What is the status of my train?I am in a train from Jaipur to Delhi.",
+        "intent": "Train Status Inquiry",
+        "slots": {
+            "Source": "Jaipur",
+            "Destination": "Delhi"
+        }
+    },
+    {
+        "utterance": "What is the permission for baggage from Mumbai to London for the economy class?",
+        "intent": "Baggage Allowance Inquiry",
+        "slots": {
+            "Class": "Economy",
+            "Source": "Mumbai",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "Do you provide wheelchair aid at New York Airport?",
+        "intent": "Wheelchair Assistance Inquiry",
+        "slots": {
+            "Location": "New York Airport"
+        }
+    },
+    {
+        "utterance": "What is the flight check-in time from Paris to Dubai?",
+        "intent": "Check-in Time Inquiry",
+        "slots": {
+            "Source": "Paris",
+            "Destination": "Dubai"
+        }
+    },
+    {
+        "utterance": "Is there a lounge available for business class passengers at Heathro Airport?",
+        "intent": "Airport Lounge Inquiry",
+        "slots": {
+            "Location": "Heathro airport",
+            "Class": "Business"
+        }
+    },
+    {
+        "utterance": "Is there a taxi service at Mumbai Airport?",
+        "intent": "Airport Taxi Service Inquiry",
+        "slots": {
+            "Location": "Mumbai Airport",
+            "Facility": "Taxi service"
+        }
+    },
+    {
+        "utterance": "Is there a direct flight from Mumbai to Paris?",
+        "intent": "Direct Flight Inquiry",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "Paris"
+        }
+    },
+    {
+        "utterance": "What is my ticket class?I am in a train from Delhi to Jaipur.",
+        "intent": "Ticket Class Inquiry",
+        "slots": {
+            "Source": "Delhi",
+            "Destination": "Jaipur"
+        }
+    },
+    {
+        "utterance": "Is there an ATM at Mumbai Airport?",
+        "intent": "Airport ATM Inquiry",
+        "slots": {
+            "Location": "Mumbai Airport",
+            "Facility": "ATM"
+        }
+    },
+    {
+        "utterance": "Is there a non-stop flight from Mumbai to London?",
+        "intent": "Non-Stop Flight Inquiry",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "My ticket booking has been canceled.Will I get refund?",
+        "intent": "Ticket Cancellation Refund Inquiry",
+        "slots": {}
+    },
+    {
+        "utterance": "Is there a Lost and Found Center at Mumbai Airport?",
+        "intent": "Airport Lost and Found Inquiry",
+        "slots": {
+            "Location": "Mumbai Airport",
+            "Facility": "Lost and Found Center"
+        }
+    },
+    {
+        "utterance": "What is the status of my ticket?I am in Surat train from Ahmedabad.",
+        "intent": "Ticket Status Inquiry",
+        "slots": {
+            "Source": "Ahmedabad",
+            "Destination": "face"
+        }
+    },
+    {
+        "utterance": "Is there a shopping facility at Mumbai Airport?",
+        "intent": "Airport Shopping Inquiry",
+        "slots": {
+            "Location": "Mumbai Airport",
+            "Facility": "Shopping"
+        }
+    },
+    {
+        "utterance": "Q. Which is the cheapest flight from Mumbai to New York?",
+        "intent": "Cheapest Flight Inquiry",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "New York"
+        }
+    },
+    {
+        "utterance": "When is the next flight from Mumbai to London?",
+        "intent": "Next Flight Inquiry",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "Is your duty free store at Mumbai Airport?",
+        "intent": "Airport Duty-Free Store Inquiry",
+        "slots": {
+            "Location": "Mumbai Airport",
+            "Facility": "Duty free store"
+        }
+    },
+    {
+        "utterance": "Q. Which is the fastest flight from Mumbai to London?",
+        "intent": "Fastest Flight Inquiry",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "What is my train route?I am on the train from Chandigarh to Amritsar.",
+        "intent": "Train Route Inquiry",
+        "slots": {
+            "Source": "Chandigarh",
+            "Destination": "Amritsar"
+        }
+    },
+    {
+        "utterance": "Is there a food court at Mumbai Airport?",
+        "intent": "Airport Food Court Inquiry",
+        "slots": {
+            "Location": "Mumbai Airport",
+            "Facility": "Food court"
+        }
+    },
+    {
+        "utterance": "What is the status of my ticket?I am in a train from Delhi to Lucknow.",
+        "intent": "Ticket Status Inquiry",
+        "slots": {
+            "Source": "Delhi",
+            "Destination": "Lucknow"
+        }
+    },
+    {
+        "utterance": "What is the best via from Mumbai to New York?",
+        "intent": "Best Route Inquiry",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "New York"
+        }
+    },
+    {
+        "utterance": "What is the most comfortable transit from Mumbai to London?",
+        "intent": "Most Comfortable Transit Inquiry",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "What is my ticket route?I am in a train from Delhi to Mumbai.",
+        "intent": "Ticket Route Inquiry",
+        "slots": {
+            "Source": "Delhi",
+            "Destination": "Mumbai"
+        }
+    },
+    {
+        "utterance": "Is there a baggage access lounge at Lucknow Airport?",
+        "intent": "Airport Lounge Inquiry",
+        "slots": {
+            "Location": "Lucknow Airport",
+            "Facility": "Baggage access lounge"
+        }
+    },
+    {
+        "utterance": "My ticket booking has been canceled.Will I get refund?",
+        "intent": "Ticket Cancellation Refund Inquiry",
+        "slots": {}
+    },
+    {
+        "utterance": "Do you get online boarding pass at Chennai Airport?",
+        "intent": "Airport Boarding Pass Inquiry",
+        "slots": {
+            "Location": "Chennai Airport",
+            "Facility": "Online boarding pass"
+        }
+    },
+    {
+        "utterance": "Is there a direct flight from Mumbai to New York?",
+        "intent": "Direct Flight Inquiry",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "New York"
+        }
+    },
+    {
+        "utterance": "Has there been any change in the route of my train?",
+        "intent": "Train Route Change Inquiry",
+        "slots": {}
+    },
+    {
+        "utterance": "What is the status of my ticket?I am in a train from Jaipur to Ahmedabad.",
+        "intent": "Ticket Status Inquiry",
+        "slots": {
+            "Source": "Jaipur",
+            "Destination": "Ahmedabad"
+        }
+    },
+    {
+        "utterance": "What is the status of my train?I am in a train from Lucknow to Banaras.",
+        "intent": "Train Status Inquiry",
+        "slots": {
+            "Source": "Lucknow",
+            "Destination": "Banaras"
+        }
+    },
+    {
+        "utterance": "Q. Which is the fastest flight from Mumbai to New York?",
+        "intent": "Fastest Flight Inquiry",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "New York"
+        }
+    },
+    {
+        "utterance": "Is there a newsstand at Mumbai Airport?",
+        "intent": "Airport Information",
+        "slots": {
+            "Location": "Mumbai Airport",
+            "Facility": "Newsstand"
+        }
+    },
+    {
+        "utterance": "When is the next flight from Mumbai to London?",
+        "intent": "Next Flight Inquiry",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "Is there a free Wi-Fi at Lucknow Airport?",
+        "intent": "Airport Free Wi-Fi Inquiry",
+        "slots": {
+            "Location": "Lucknow Airport",
+            "Facility": "Free Wi-Fi"
+        }
+    },
+    {
+        "utterance": "What is my ticket booking rate?I am in a train from Patna to Delhi.",
+        "intent": "Ticket Booking Rate Inquiry",
+        "slots": {
+            "Source": "Patna",
+            "Destination": "Delhi"
+        }
+    },
+    {
+        "utterance": "What is the status of my ticket?I am on a train from Bangalore to Hyderabad.",
+        "intent": "Ticket Status Inquiry",
+        "slots": {
+            "Source": "Bengaluru",
+            "Destination": "Hyderabad"
+        }
+    },
+    {
+        "utterance": "What is the best flight from Mumbai to Paris?",
+        "intent": "Best Flight Inquiry",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "Paris"
+        }
+    },
+    {
+        "utterance": "Has my train route changed?",
+        "intent": "Train Route Change Inquiry",
+        "slots": {}
+    },
+    {
+        "utterance": "What is my flight route?I am on a flight from Mumbai to New Delhi.",
+        "intent": "Flight Route Inquiry",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "New Delhi"
+        }
+    },
+    {
+        "utterance": "What is the status of my train booking?I am in a train from Lucknow to Mumbai.",
+        "intent": "Train Booking Status Inquiry",
+        "slots": {
+            "Source": "Lucknow",
+            "Destination": "Mumbai"
+        }
+    },
+    {
+        "utterance": "Q. Which is the fastest flight from Mumbai to London?",
+        "intent": "Fastest Flight Inquiry",
+        "slots": {
+            "Source": "Mumbai",
+            "Destination": "London"
+        }
+    },
+    {
+        "utterance": "Are the Kovid-19 protocols being implemented at Mumbai Airport?",
+        "intent": "Airport COVID-19 Protocol Inquiry",
+        "slots": {
+            "Location": "Mumbai Airport",
+            "Protocol": "Kovid-19 protocol"
+        }
+    },
+    {
+        "utterance": "Book my ticket comfort seat.I am on a train from Delhi to Chennai.",
+        "intent": "Seat Booking Request",
+        "slots": {
+            "Source": "Delhi",
+            "Destination": "Chennai"
+        }
+    },
+    {
+        "utterance": "Is duty-free clothes available at Mumbai Airport?",
+        "intent": "Duty-Free Shopping Inquiry",
+        "slots": {
+            "Location": "Mumbai Airport"
+        }
+    }
+]
