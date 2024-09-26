@@ -13,4 +13,4 @@
 <br>o Smriti Priyadarshani (23dp0098) 
 <br>o Tanush Garg (20je1020) 
 <br>o Suryarghya Saha (20je0998)
-<br>o Aman Rawat (20je0110) r>
+<br>o Aman Rawat (20je0110) 
